@@ -2,6 +2,7 @@
 
 <!--
 **agam261/agam261** is a ✨ _special_ ✨ repository because its `README.md` (index.html) appears on your GitHub profile.
+**agam261/agam261** is a ✨ _special_ ✨ repository because its `README.md` (contoh foto ku) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
